@@ -5,5 +5,3 @@ license 'all_rights'
 description 'Installs/Configures myfirstcookbook'
 long_description 'Installs/Configures myfirstcookbook'
 version '0.1.0'
-
-depends "java"
